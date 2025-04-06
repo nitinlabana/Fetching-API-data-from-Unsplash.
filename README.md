@@ -3,6 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+# Swap-Two-Variables
+ 
+![Screenshot 2023-12-10 195616](https://github.com/nitinlabana/Swap-Two-Variables/assets/67837026/bb443d1e-fd29-4d28-9545-3af9c4f0f0e1)
 
 In the project directory, you can run:
 
