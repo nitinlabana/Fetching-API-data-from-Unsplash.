@@ -3,10 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-# Swap-Two-Variables
+
  ![Screenshot 2025-04-06 143802](https://github.com/user-attachments/assets/adec97e3-d162-41cf-8738-47e1d76d6353)
 
-![Screenshot 2023-12-10 195616](C:\Users\NITIN\OneDrive\Pictures\Screenshots\Screenshot 2025-04-06 143802.png)
+
 
 In the project directory, you can run:
 
