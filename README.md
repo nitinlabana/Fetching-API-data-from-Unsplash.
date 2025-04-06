@@ -2,10 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Fetching API data from Unsplash.com
 
 
-##Fetching API data from Unsplash.com
 
  ![Screenshot 2025-04-06 143802](https://github.com/user-attachments/assets/adec97e3-d162-41cf-8738-47e1d76d6353)
 
